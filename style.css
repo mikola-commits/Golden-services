@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .header-wrapper {
+    display: flex;
+  }
+  .logo {
+    margin: 10px 600px 15px 50px;
+    color: #FED136;
+    ;
+  }
+  nav {
+    margin-top: 10px;
+  }
+  a {
+    margin: 10px;
+    color: #fed136;
+    text-decoration: none;
+  }
